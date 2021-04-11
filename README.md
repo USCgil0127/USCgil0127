@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Cho,EunGil&fontSize=70&animation=twinkling)
 
-#  Eun-Gil Cho 
+
 
 ##  개발자를 꿈꾸는 좋은 길로 가는 "조 은길"입니다 😄
 
