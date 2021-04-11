@@ -36,3 +36,12 @@ Gil uses a number of open source projects to work properly:
 </p>
 
 
+<br></br>
+<h3 align="center"> 🍒 More info about Me 🍒 </h3>
+
+<p align="center">
+  <a href="https://velog.io/@gil0127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
+ </a>&nbsp
+  
+<br></br>
+
