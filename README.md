@@ -7,7 +7,7 @@
 <h3 align="center">✨About me    ✨</h3>
 I've an undergraduate degree at the University of Southern California majoring in Economics.
 Currently, I am seeking an internship or full-time job within the realm of IT technology (especially for back-end developing). 
-If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you :)
+If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you
 
 
 
