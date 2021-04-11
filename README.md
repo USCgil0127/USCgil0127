@@ -42,6 +42,7 @@ Gil uses a number of open source projects to work properly:
 <p align="center">
   <a href="https://velog.io/@gil0127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
  </a>&nbsp
+<a href="mailto:zbvlxj2000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/></a>
+</p>
   
 <br></br>
-
