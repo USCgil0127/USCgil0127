@@ -13,6 +13,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 
 ![나와 세상2](https://user-images.githubusercontent.com/76875723/114344320-901caf80-9b9a-11eb-9d8e-3f0c20699f23.jpg)
 
+- Your beginnings will seem humble, so prosperous will your future be.
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
