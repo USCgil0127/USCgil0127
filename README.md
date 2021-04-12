@@ -5,7 +5,7 @@
 ##  개발자를 꿈꾸는 좋은 길로 가는 "조 은길"입니다 😄
 
 <h3 align="center">✨ About Me    ✨</h3>
-I have bachelor's degree at the University of Southern California majoring in Economics.
+I have an undergraduate degree at the University of Southern California majoring in Economics.
 Currently, I am seeking an internship or full-time job within the realm of IT technology (especially for back-end developing). 
 If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you
 
