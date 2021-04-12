@@ -51,3 +51,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 
 ![나와 세상2](https://user-images.githubusercontent.com/76875723/114344320-901caf80-9b9a-11eb-9d8e-3f0c20699f23.jpg)
 
+<br></br>
+
+![스페인 사진](https://user-images.githubusercontent.com/76875723/114344372-a9bdf700-9b9a-11eb-8073-35cf4088187b.jpg)
+
