@@ -9,6 +9,9 @@ I have an undergraduate degree at the University of Southern California majoring
 Currently, I am seeking an internship or full-time job within the realm of IT technology (especially for back-end developing). 
 If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you
 
+<br></br>
+
+![나와 세상2](https://user-images.githubusercontent.com/76875723/114344320-901caf80-9b9a-11eb-9d8e-3f0c20699f23.jpg)
 
 
 
@@ -49,7 +52,4 @@ If you wish to reach out with any questions regarding my internship and leadersh
   
 <br></br>
 
-![나와 세상2](https://user-images.githubusercontent.com/76875723/114344320-901caf80-9b9a-11eb-9d8e-3f0c20699f23.jpg)
-
-<br></br>
 
