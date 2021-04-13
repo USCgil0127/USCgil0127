@@ -10,6 +10,7 @@ Currently, I am seeking an internship or full-time job within the realm of IT te
 If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you
 
 <br></br>
+<h3 align="center">🚀 시작은 미약하나 그 끝은 창대하리라 🚀</h3>
 
 ![나와 세상2](https://user-images.githubusercontent.com/76875723/114344320-901caf80-9b9a-11eb-9d8e-3f0c20699f23.jpg)
 
