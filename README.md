@@ -53,4 +53,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
   
 <br></br>
 
+![스페인 사진](https://user-images.githubusercontent.com/76875723/114492408-873be480-9c53-11eb-97b1-22f3ae76afed.jpg)
+
+
 
