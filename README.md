@@ -9,6 +9,8 @@ I have an undergraduate degree at the University of Southern California majoring
 Currently, I am seeking an internship or full-time job within the realm of IT technology (especially for back-end developing). 
 If you wish to reach out with any questions regarding my internship and leadership experience, I would be more than happy to take that conversation further. Thank you
 
+<br></br>
+
 - 안녕하세요. 역사 덕후이자 테니스 광인 좋은 길로 가는 조은길입니다. 
  <br> </br>
 - 저는 시대를 불문하고, 위인들이 살아온 인생을 듣는 것을 좋아합니다. 한 위인의 인생에는 고유한 아름다움이 담겨있습니다. 그리고 저 역시도 저의 인생의 저만의 가치와 아름다움을 담고 싶습니다.
