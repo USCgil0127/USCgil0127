@@ -20,7 +20,6 @@ If you wish to reach out with any questions regarding my internship and leadersh
  저는 저만의 아름다움을 담을 공간으로 코딩을 선택했습니다. 신이 우주를 창조했다면, 인간은 온라인이라는 우주를 창조했습니다. 그리고 저희 인간이 만든 우주 속에 무한한 가능성이 있다고 믿습니다.
  <br></br>
  이 무한한 공간 속에서 저만의 아름다운 가치를 만들어가겠습니다. 감사합니다. 
-
 <br></br>
 <h3 align="center">🚀 시작은 미약하나 그 끝은 창대하리라 🚀</h3>
 
