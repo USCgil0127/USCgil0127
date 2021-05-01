@@ -32,7 +32,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 <p align="center">  </p>
 
 ```js
-const hk_stacks = stack => {
+const Gil_stacks = stack => {
   switch (stack) {
     case 개발_언어:
       return `Javascript, Typescript, JAVA`;
