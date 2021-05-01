@@ -30,7 +30,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
+<p align="center">  </p>
 
 ```js
 const hk_stacks = stack => {
@@ -55,10 +55,6 @@ const hk_stacks = stack => {
   }
 };
 ```
-
-
-
-
 
 <br></br>
 <h3 align="center"> 🍒 More Info About Me 🍒 </h3>
