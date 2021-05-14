@@ -41,7 +41,7 @@ const Gil_stacks = stack => {
       return `NPM, Webpack, Babel, ESLint, Jest`;
 
     case Front_End:
-      return `React, Redux, Styled-Components, SASS`;
+      return `React, Redux, Styled-Components, Webpack`;
 
     case Back_End:
       return `NodeJS, ExpressJS, NestJS, TypeORM, Sequelize, MySQL`;
