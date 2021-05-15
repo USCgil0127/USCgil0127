@@ -35,7 +35,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 const Gil_stacks = stack => {
   switch (stack) {
     case 개발_언어:
-      return `Javascript, Typescript, JAVA`;
+      return `Javascript, Typescript`;
 
     case 개발_환경:
       return `NPM, Webpack, Babel, ESLint, Jest`;
