@@ -67,8 +67,7 @@ const Gil_stacks = stack => {
  
  [ "은길이"에 대한 주니어 개발자들의 평가는??🙋 ](https://velog.io/@gil0127/%EC%A1%B0%EC%9D%80%EA%B8%B8-%ED%8E%98%EC%96%B4%EB%A6%AC%EB%B7%B0) 
  
-</h3>
-  
+</h3>  
 <br></br>
 
 ![스페인 사진](https://user-images.githubusercontent.com/76875723/114492408-873be480-9c53-11eb-97b1-22f3ae76afed.jpg)
