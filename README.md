@@ -62,6 +62,12 @@ const Gil_stacks = stack => {
  </a>&nbsp
 <a href="mailto:zbvlxj2000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/></a>
 </p>
+
+<h3 align="center">
+ 
+ [ "은길이"에 대한 주니어 개발자들의 평가는??🙋 ](https://velog.io/@gil0127/%EC%A1%B0%EC%9D%80%EA%B8%B8-%ED%8E%98%EC%96%B4%EB%A6%AC%EB%B7%B0) 
+ 
+</h3>
   
 <br></br>
 
