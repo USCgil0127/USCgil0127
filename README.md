@@ -11,7 +11,7 @@ If you wish to reach out with any questions regarding my internship and leadersh
 
 <br></br>
 
-- 안녕하세요. 역사 덕후이자 테니스 광인 좋은 길로 가는 " 조은길 "입니다. 
+- 안녕하세요. **역사 덕후**이자 **테니스 광**인 좋은 길로 가는 " 조은길 "입니다. 
  <br> </br>
  저는 시대를 불문하고, 위인들이 살아온 인생을 듣는 것을 좋아합니다. 한 위인의 인생에는 고유한 아름다움이 담겨있습니다. 
  <br></br>
