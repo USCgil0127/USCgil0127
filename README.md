@@ -60,7 +60,7 @@ const Gil_stacks = stack => {
 <p align="center">
   <a href="https://velog.io/@gil0127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
  </a>&nbsp
-<a href="mailto:zbvlxj2000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/></a>
+<a href="mailto:zbvlxj2000@naver.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/> </a>
 </p>
 
 <h3 align="center">
