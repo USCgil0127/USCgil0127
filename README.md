@@ -56,12 +56,12 @@ const Gil_stacks = stack => {
 <h3 align="center"> 🍒 More Info About Me 🍒 </h3>
 
 <p align="center">
-  <a href="https://velog.io/@gil0127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
+  <a href="https://velog.io/@gil0127" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
  </a>&nbsp
-<a href="mailto:zbvlxj2000@naver.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/> </a>
+<a href="mailto:zbvlxj2000@naver.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=zbvlxj2000@naver.com"/> </a>
 </p>
 
-<h3 align="center">
+<h3 align="center" target="_blank">
  
  [ "은길이"에 대한 주니어 개발자들의 평가는?? 🙋 ](https://velog.io/@gil0127/%EC%A1%B0%EC%9D%80%EA%B8%B8-%ED%8E%98%EC%96%B4%EB%A6%AC%EB%B7%B0) 
  
