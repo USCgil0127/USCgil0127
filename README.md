@@ -54,7 +54,7 @@ const Gil_stacks = stack => {
 ```
 <br></br>
 <h3 align="center"> 🍒 More Info About Me 🍒 </h3>
-
+<p align="center">  학습한 내용들을 velog에 기록하고 있습니다. </p>
 <p align="center">
   <a href="https://velog.io/@gil0127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gil0127"/>
  </a>&nbsp
