@@ -2,7 +2,7 @@
 
 
 
-##  좋은 길로 가는 "조 은길"입니다 😄
+##  멋진 개발자를 꿈꾸는 좋은 길로 가는 "조 은길"입니다 😄
 
 <h3 align="center">✨ About Me    ✨</h3>
 <p> I have an undergraduate degree at the University of Southern California majoring in Economics.
