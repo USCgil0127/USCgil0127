@@ -29,7 +29,7 @@ const Gil_stacks = stack => {
       return `React, Redux, Styled-Components, Webpack`;
 
     case Back_End:
-      return `NodeJS, ExpressJS, Sequelize, MySQL, MongoDB`;
+      return `NodeJS, ExpressJS, NestJS, Sequelize, MySQL, MongoDB`;
 
     case Deploy:
       return `EC2, S3, RDS, Route53`;
